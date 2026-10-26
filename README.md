@@ -1,12 +1,12 @@
 ﻿
 1.  Ingresé a Azure for Students
-<img src="https://api.manus.im/api/website_tool/fetch_website_favicon?host=portal.azure.com"
+<img src="https://azure.microsoft.com/favicon.ico"
      alt="Icono de Azure"
      width="16"
      height="16"> (https://azure.microsoft.com/free/students/) con mi correo institucional.
 3.  Completé el proceso de validación de elegibilidad estudiantil solicitado por Microsoft: en este caso Azure le ofrece a la Fundacion Universitaria Tecnologico Comfenalco una licencia llamada Azure for Students de 100 USD de creditos, anteriormente eran 200 USD.
 4.  Revisé y acepté las condiciones que aparecieron durante el registro.
-5.  Inicié sesión en el portal de Azure <img src="https://api.manus.im/api/website_tool/fetch_website_favicon?host=portal.azure.com"
+5.  Inicié sesión en el portal de Azure <img src="https://azure.microsoft.com/favicon.ico"
      alt="Icono de Azure"
      width="16"
      height="16"> (https://portal.azure.com/).
